@@ -1,0 +1,14 @@
+D:\code\Lista-1\Lista-1\bin\Debug\net8.0\Lista-1.exe
+D:\code\Lista-1\Lista-1\bin\Debug\net8.0\Lista-1.deps.json
+D:\code\Lista-1\Lista-1\bin\Debug\net8.0\Lista-1.runtimeconfig.json
+D:\code\Lista-1\Lista-1\bin\Debug\net8.0\Lista-1.dll
+D:\code\Lista-1\Lista-1\bin\Debug\net8.0\Lista-1.pdb
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\Lista-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\Lista-1.AssemblyInfoInputs.cache
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\Lista-1.AssemblyInfo.cs
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\Lista-1.csproj.CoreCompileInputs.cache
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\Lista-1.dll
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\refint\Lista-1.dll
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\Lista-1.pdb
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\Lista-1.genruntimeconfig.cache
+D:\code\Lista-1\Lista-1\obj\Debug\net8.0\ref\Lista-1.dll
