@@ -1,0 +1,14 @@
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\LISTAS-GERAIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\LISTAS-GERAIS.AssemblyInfoInputs.cache
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\LISTAS-GERAIS.AssemblyInfo.cs
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\LISTAS-GERAIS.csproj.CoreCompileInputs.cache
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\bin\Debug\net8.0\LISTAS-GERAIS.exe
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\bin\Debug\net8.0\LISTAS-GERAIS.deps.json
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\bin\Debug\net8.0\LISTAS-GERAIS.runtimeconfig.json
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\bin\Debug\net8.0\LISTAS-GERAIS.dll
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\bin\Debug\net8.0\LISTAS-GERAIS.pdb
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\LISTAS-GERAIS.dll
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\refint\LISTAS-GERAIS.dll
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\LISTAS-GERAIS.pdb
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\LISTAS-GERAIS.genruntimeconfig.cache
+D:\code\LISTAS-GERAIS\LISTAS-GERAIS\obj\Debug\net8.0\ref\LISTAS-GERAIS.dll
