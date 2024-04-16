@@ -1,9 +1,8 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 class Program
 {
-    //ANOTAÇÃO: QUESTÕES FALTANDO: 6
     public static void Main(string[] args)
     {
         bool continuar = true;
@@ -146,6 +145,25 @@ class Program
                         break;
 
                     case 6:
+                        double hotel, desc, diaria, hotelp = 75, valordesc1, valordesc2, diferenca;
+
+                        Console.WriteLine("Digite o valor da diaria: ");
+                        hotel = double.Parse(Console.ReadLine());
+                        diaria = hotel - (hotel * 0.25);
+                        valordesc1 = (hotelp * 0.80)*diaria;
+                        valordesc2 = (hotelp * 0.50) * hotel;
+
+                        if (valordesc1 > valordesc2){
+                            diferenca = valordesc1 - valordesc2;
+                            Console.WriteLine("O valor da diferença é :"+ diferenca);
+                        }
+                        else{
+                            diferenca = valordesc1 - valordesc2;
+                            Console.WriteLine("O valor da diferença é :"+ diferenca);
+                        }
+                        Console.WriteLine("O valor da diaria com desconto: "+diaria);
+                        Console.WriteLine("O valor da diaria com desconto de 80%: "+valordesc1);
+                        Console.WriteLine("O valor da diaria com desconto de 50%: "+valordesc2);
 
                         break;
                     case 7:
