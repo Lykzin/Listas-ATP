@@ -3,7 +3,6 @@ using System.Globalization;
 
 class Program
 {
-    //fazer a 4 DEPOIS
     public static void Main(string[] args)
     {
         bool continuar = true;
